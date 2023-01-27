@@ -1,0 +1,15 @@
+/Users/yanina/Examples/Example01_Console/bin/Debug/net6.0/Example01_Console
+/Users/yanina/Examples/Example01_Console/bin/Debug/net6.0/Example01_Console.deps.json
+/Users/yanina/Examples/Example01_Console/bin/Debug/net6.0/Example01_Console.runtimeconfig.json
+/Users/yanina/Examples/Example01_Console/bin/Debug/net6.0/Example01_Console.dll
+/Users/yanina/Examples/Example01_Console/bin/Debug/net6.0/Example01_Console.pdb
+/Users/yanina/Examples/Example01_Console/obj/Debug/net6.0/Example01_Console.csproj.AssemblyReference.cache
+/Users/yanina/Examples/Example01_Console/obj/Debug/net6.0/Example01_Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanina/Examples/Example01_Console/obj/Debug/net6.0/Example01_Console.AssemblyInfoInputs.cache
+/Users/yanina/Examples/Example01_Console/obj/Debug/net6.0/Example01_Console.AssemblyInfo.cs
+/Users/yanina/Examples/Example01_Console/obj/Debug/net6.0/Example01_Console.csproj.CoreCompileInputs.cache
+/Users/yanina/Examples/Example01_Console/obj/Debug/net6.0/Example01_Console.dll
+/Users/yanina/Examples/Example01_Console/obj/Debug/net6.0/refint/Example01_Console.dll
+/Users/yanina/Examples/Example01_Console/obj/Debug/net6.0/Example01_Console.pdb
+/Users/yanina/Examples/Example01_Console/obj/Debug/net6.0/Example01_Console.genruntimeconfig.cache
+/Users/yanina/Examples/Example01_Console/obj/Debug/net6.0/ref/Example01_Console.dll
